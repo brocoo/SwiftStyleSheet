@@ -1,0 +1,61 @@
+{
+  "textStyles": {
+    "Body": {
+      "font": "AvenirNext-Medium",
+      "size": 14,
+      "colour": "OffBlack"
+    },
+    "BodyDemiBold": {
+      "font": "AvenirNext-DemiBold",
+      "size": 14,
+      "colour": "OffBlack"
+    },
+    "BodySmall": {
+      "font": "AvenirNext-Medium",
+      "size": 12,
+      "colour": "Grey"
+    },
+    "NavigationTitle": {
+      "font": "AvenirNext-DemiBold",
+      "size": 16,
+      "colour": "OffBlack"
+    },
+    "Placeholder": {
+      "font": "AvenirNext-Medium",
+      "size": 14,
+      "colour": "Grey"
+    },
+    "BodyTiny": {
+      "font": "AvenirNext-Medium",
+      "size": 9,
+      "colour": "OffBlack"
+    },
+    "BodyTinyBold": {
+      "font": "AvenirNext-DemiBold",
+      "size": 9,
+      "colour": "OffBlack"
+    }
+  },
+  "colours": {
+    "Black": [
+      0,
+      0,
+      0
+    ],
+    "Grey": [
+      200,
+      200,
+      200
+    ],
+    "OffBlack": [
+      20,
+      20,
+      20
+    ],
+    "Yellow": [
+      245,
+      222,
+      80
+    ]
+  }
+}
